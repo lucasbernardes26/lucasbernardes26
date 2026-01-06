@@ -3,7 +3,7 @@
 Sou um estudante de tecnologia apaixonado por transformar linhas de código em soluções reais. Atualmente, estou construindo minha jornada para me tornar um **Desenvolvedor Full Stack**.
 
 📍 **Localização:** Rio de Janeiro, Brasil <br />
-🎓 **Graduação:** Engenharia de Software & Análise e Desenvolvimento de Sistemas (UNIGRANRIO) <br />
+🎓 **Graduação:** Engenharia de Software & Análise e Desenvolvimento de Sistemas <br />
 💼 **Atualmente:** Jovem Aprendiz em Desenvolvimento de Sistemas na **Petrobrás**
 
 ---
