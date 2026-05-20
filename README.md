@@ -4,7 +4,6 @@ Sou um estudante de tecnologia apaixonado por transformar linhas de código em s
 
 📍 **Localização:** Rio de Janeiro, Brasil <br />
 🎓 **Graduação:** Engenharia de Software & Análise e Desenvolvimento de Sistemas <br />
-💼 **Atualmente:** Aprendiz em Desenvolvimento de Sistemas na **Petrobras**
 
 ---
 
